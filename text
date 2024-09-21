@@ -1,0 +1,9 @@
+- we will write typescript in the common auth but publish as javascript
+- create ts config file, and change packagne json for publish build and not index.tx
+- run npm version patch for updating npm package
+- npm run build and npm publish
+- for updating package in another service use npm udate @common-atuh/common
+- kubectl exec -it auth-depl-75f46b65d7-x8vn9 sh for pod shell
+
+
+- NATS Event bus
